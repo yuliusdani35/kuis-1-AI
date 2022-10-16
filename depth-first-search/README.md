@@ -1,4 +1,4 @@
-## Pencarian Jalur dan Visualizer Algoritma 
+## Pencarian Jalur dan Visualisasi Algoritma 
 ##### ddibuat menggunakan Js, HTML, dan CSS
 
 
