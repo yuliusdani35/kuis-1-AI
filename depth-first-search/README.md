@@ -1,37 +1,25 @@
-## Path Finding and Maze Generation Algorithm Visualizer
-
- ##### built in VanillaJs, HTML and CSS
-
-![](PathF.gif)
+## Pencarian Jalur dan Visualizer Algoritma 
+##### ddibuat menggunakan Js, HTML, dan CSS
 
 
+Aplikasi ini memvisualisasikan algoritma pencarian jalan yang berbeda. Anda dapat memvisualisasikan algoritma pada satu waktu.
 
-This application visualizes five different pathfinding algorithms and five maze generation algorithms. You can visualize one algorithm at a time or you can visualize multiple algorithms at the same time. Up to four grid will be available and in each grid you can have a maze generation algorithm and a pathfinding algorithm assigned to it.
+Setiap kisi adalah turunan dari kelas Tabel. Anda dapat menemukan kode kelas di 'src/js/TableClass.js'. Operasi seperti mengaktifkan kisi, menonaktifkan kisi, membersihkan kisi, dan juga menetapkan algol yang berbeda ke kisi ditangani melalui metode yang ditentukan di kelas Tabel.
 
-Each grid is an instance of a Table class. You can find the code of the class in 'src/js/TableClass.js'. Operations like activating a grid, deactivating the grid, cleaning the grid and also assigning different algols to a grid is handled via designated methods in the Table class.
-
-Also You can find the code for all the algorithms in 'src/js/GraphAlgos.js' and the main logic and workflow of the website could be found in 'src/js/Main.js'. 
-
-
-#### Find the live application here:
- ######  [https://minakhamesi.github.io/Pathfinding-Visualizer/](https://minakhamesi.github.io/Pathfinding-Visualizer/)
-
-###### Five pathfinding algorithm used in this application are:
-*   Breadth-first-search
-*  Depth-first search
-*  Dijkstra’s algorithm
-*   A* algorithm
-*  greedy best-first search algorithm
-
-###### Maze generation algorithms include:
-*   recursive backtracker algorithm
-*  recursive division algorithm
-*  randomized prim’s algorithm
-*  two simple matrix traversal algorithm.
+Anda juga dapat menemukan kode untuk semua algoritme di 'src/js/GraphAlgos.js' dan logika utama serta alur kerja situs web dapat ditemukan di 'src/js/Main.js'.
 
 
-###### application on mobile devices
-![](mobile.gif)
+###### algoritma yang digunakan dalam aplikasi ini adalah:
+* Depth first search
+
+###### Algoritme pembuatan labirin meliputi:
+* algoritma backtracker rekursif
+* algoritma pembagian rekursif
+* algoritma prim acak
+* dua algoritma traversal matriks sederhana.
+
+
+
 
 
 
