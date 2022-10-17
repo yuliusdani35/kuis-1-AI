@@ -7,7 +7,7 @@ Thomas Dalton G.D (203400001)
 
 Aplikasi ini memvisualisasikan algoritma pencarian jalan yang berbeda. Anda dapat memvisualisasikan algoritma pada satu waktu.
 
-Setiap kisi adalah turunan dari kelas Tabel. Anda dapat menemukan kode kelas di 'src/js/TableClass.js'. Operasi seperti mengaktifkan kisi, menonaktifkan kisi, membersihkan kisi, dan juga menetapkan algol yang berbeda ke kisi ditangani melalui metode yang ditentukan di kelas Tabel.
+Setiap kisi adalah turunan dari kelas Tabel. Anda dapat menemukan kode kelas di 'src/js/TableClass.js'. Operasi seperti mengaktifkan kisi, menonaktifkan kisi, membersihkan kisi, dan juga menetapkan algoritma ke kisi melalui metode yang ditentukan di kelas Tabel.
 
 Anda juga dapat menemukan kode untuk semua algoritma di 'src/js/GraphAlgos.js' dan logika utama serta alur kerja situs web dapat ditemukan di 'src/js/Main.js'.
 
