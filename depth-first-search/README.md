@@ -8,6 +8,8 @@ Setiap kisi adalah turunan dari kelas Tabel. Anda dapat menemukan kode kelas di 
 
 Anda juga dapat menemukan kode untuk semua algoritme di 'src/js/GraphAlgos.js' dan logika utama serta alur kerja situs web dapat ditemukan di 'src/js/Main.js'.
 
+jika ingin membuka web nya maka harus membuka file bernama 'index.html'.
+
 
 ###### algoritma yang digunakan dalam aplikasi ini adalah:
 * Depth first search
