@@ -1,6 +1,8 @@
 ## Pencarian Jalur dan Visualisasi Algoritma 
 ##### ddibuat menggunakan Js, HTML, dan CSS
 
+Yulius Dani E.S (203400012)
+Thomas Dalton G.D (203400001)
 
 Aplikasi ini memvisualisasikan algoritma pencarian jalan yang berbeda. Anda dapat memvisualisasikan algoritma pada satu waktu.
 
